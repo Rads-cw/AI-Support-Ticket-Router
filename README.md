@@ -30,6 +30,8 @@ The category classifier uses TF-IDF and logistic regression. Priority is assigne
 
 The notebook evaluates the classifier on 19 held-out tickets from an initial set of 75 written examples. It reports **94.74% accuracy on that small test set**. The app's final model is then trained on all 75 examples plus 10 additional settings-related examples. The reported score does not independently evaluate that final model or predict its performance on real customer tickets.
 
+Watch the linked video for a video demo of the UI: https://youtu.be/HIT07Yo8qes
+
 ## Run it
 
 1. Open `model_training.ipynb(1)` in Google Colab or Jupyter.
