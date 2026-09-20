@@ -32,7 +32,7 @@ The notebook evaluates the classifier on 19 held-out tickets from an initial set
 
 ## Run it
 
-1. Open `model_training.ipynb` in Google Colab or Jupyter.
+1. Open `model_training.ipynb(1)` in Google Colab or Jupyter.
 2. Run the cells in order.
 3. Open the Gradio link displayed by the final cell.
 4. Enter a sample message or write your own.
