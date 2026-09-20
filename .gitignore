@@ -1,1 +1,7 @@
-
+tickets.csv
+flagged_tickets.csv
+*.tmp
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
